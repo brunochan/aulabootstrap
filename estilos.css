@@ -76,6 +76,11 @@ footer address:last-child {
 @media (min-width: 768px) {
 	#paineis-sobre {
 		margin-top: 0;
+	}	
+
+	#contato {
+		width: 50%;
+		float: right;
 	}
 }
 
@@ -90,3 +95,4 @@ footer address:last-child {
 		position: relative;
 		height: 100%;
 	}
+}	
