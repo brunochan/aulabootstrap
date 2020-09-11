@@ -33,9 +33,9 @@ header h1 {
 	transition: 0.3s;
 }
 
-.carousel-inner .item {
+.carousel-inner .item img {
     object-fit: cover;
-    width: 100%;    
+    width: 100%;
 }
 
 .titulo-depoimentos {
